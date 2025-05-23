@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Auth;
 use SimpleSoftwareIO\QrCode\Facades\QrCode;
 
 
+
 class TwoFactorController extends Controller
 {
     public function enable2FA()
